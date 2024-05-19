@@ -14,6 +14,16 @@ class _loginState extends State<login> {
       appBar: AppBar(
         title: Text("Halaman Login"),
       ),
+<<<<<<< HEAD
+=======
+      body: SingleChildScrollView(
+        child: Column(
+          children: [
+            
+          ],
+        ),
+      ),
+>>>>>>> origin/release/v1.0.0
     );
   }
 }
